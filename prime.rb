@@ -7,6 +7,3 @@ print x
     end
   end
 end
-
-
-
