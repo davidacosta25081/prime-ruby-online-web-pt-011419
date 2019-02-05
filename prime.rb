@@ -8,3 +8,6 @@ def prime?(num)
     end
   end
 end
+
+
+puts prime?(2)
