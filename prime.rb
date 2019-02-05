@@ -7,3 +7,7 @@ print x
     end
   end
 end
+
+
+
+prime?(2)
