@@ -10,4 +10,4 @@ end
 
 
 
-prime?(2)
+puts prime?(2)
